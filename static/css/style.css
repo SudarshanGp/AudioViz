@@ -1,0 +1,69 @@
+  @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
+body {
+    /*Contains default information that applies through the body of the page*/
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: 300;
+    font-size: 4em;
+    color: black;
+    position: relative;
+    background-color: #FFFFF0;
+    /*background-image: url('../img/img.png');*/
+    padding-top: 40px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: bold;
+    margin: 0;
+}
+#viz{
+  padding-top: 50px;
+}
+#top {
+    background-color: rgb(4, 36, 61);
+    color: white;
+    vertical-align: middle;
+    font-weight: bold;
+    height: 60px;
+    font-size: 25px;
+}
+svg{
+  /*background-color: pink;*/
+}
+.navbar-default {
+    background-color: #F8F8A1;
+    border-color: #E7E7E7;
+}
+  .node {
+    cursor: pointer;
+  }
+  .overlay{
+      background-color:#EEE;
+  }
+   
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+  }
+   
+  .node text {
+    font-size:10px; 
+    font-family:sans-serif;
+  }
+   
+  .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+  }
+  .templink {
+    fill: none;
+    stroke: red;
+    stroke-width: 3px;
+  }
+  .ghostCircle.show{
+      display:block;
+  }
+  .ghostCircle, .activeDrag .ghostCircle{
+       display: none;
+  }
