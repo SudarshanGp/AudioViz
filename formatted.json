@@ -1,0 +1,373 @@
+{
+    "42": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "2",
+        "genre": "Pop",
+        "title": "42"
+    },
+    "A Hard Day's Night": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "0",
+        "genre": "Rock",
+        "title": "A Hard Day's Night"
+    },
+    "A Massage": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "7",
+        "genre": "Other",
+        "title": "A Massage"
+    },
+    "All You Need Is Love": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "6",
+        "genre": "Rock",
+        "title": "All You Need Is Love"
+    },
+    "Barcarolle in F sharp - Op.60": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "6",
+        "genre": "Classical",
+        "title": "Barcarolle in F sharp - Op.60"
+    },
+    "Berceuse in D flat - Op.57": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "6",
+        "genre": "Other",
+        "title": "Berceuse in D flat - Op.57"
+    },
+    "Cemeteries of London": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "5",
+        "genre": "Pop",
+        "title": "Cemeteries of London"
+    },
+    "Come Together": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "1",
+        "genre": "Rock",
+        "title": "Come Together"
+    },
+    "Day Tripper": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "7",
+        "genre": "Rock",
+        "title": "Day Tripper"
+    },
+    "Death and All His Friends": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "2",
+        "genre": "Pop",
+        "title": "Death and All His Friends"
+    },
+    "Eleanor Rigby": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "7",
+        "genre": "Rock , Pop",
+        "title": "Eleanor Rigby"
+    },
+    "Fantaisie-Impromptu in C sharp minor - Op.posth.66 (BI 87)": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "2",
+        "genre": "None",
+        "title": "Fantaisie-Impromptu in C sharp minor - Op.posth.66 (BI 87)"
+    },
+    "Fix You": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "2",
+        "genre": "Other",
+        "title": "Fix You"
+    },
+    "Frank Sinatra Hits Medley": {
+        "album": "TKWO Selections",
+        "artist": "Tokyo Kosei Wind Orchestra",
+        "cluster": "0",
+        "genre": "Classical",
+        "title": "Frank Sinatra Hits Medley"
+    },
+    "Get Back": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "5",
+        "genre": "Rock",
+        "title": "Get Back"
+    },
+    "Help!": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "5",
+        "genre": "Rock , Pop",
+        "title": "Help!"
+    },
+    "Hey Jude": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "7",
+        "genre": "Rock",
+        "title": "Hey Jude"
+    },
+    "I'll Be Home for Christmas": {
+        "album": "Sharing the Holidays With Frank Sinatra",
+        "artist": "Bing Crosby",
+        "cluster": "7",
+        "genre": "Vocal",
+        "title": "I'll Be Home for Christmas"
+    },
+    "Joy To The World": {
+        "album": "It's Christmas time",
+        "artist": "Frank Sinatra, Louis Amstrong & Bing Crosby",
+        "cluster": "9",
+        "genre": "Other",
+        "title": "Joy To The World"
+    },
+    "Lady Madonna": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "2",
+        "genre": "Rock",
+        "title": "Lady Madonna"
+    },
+    "Let It Be": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "2",
+        "genre": "Rock",
+        "title": "Let It Be"
+    },
+    "Life in Technicolor": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "6",
+        "genre": "Pop",
+        "title": "Life in Technicolor"
+    },
+    "Lost!": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "8",
+        "genre": "Pop",
+        "title": "Lost!"
+    },
+    "Lovers in Japan/Reign of Love": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "6",
+        "genre": "Pop",
+        "title": "Lovers in Japan/Reign of Love"
+    },
+    "Low": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "3",
+        "genre": "Other",
+        "title": "Low"
+    },
+    "Mazurka No.5 in B flat - Op.7 No.1": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "6",
+        "genre": "None",
+        "title": "Mazurka No.5 in B flat - Op.7 No.1"
+    },
+    "My Way (with Frank Sinatra)": {
+        "album": "Pavarotti Forever (CD2)",
+        "artist": "Luciano Pavarotti",
+        "cluster": "7",
+        "genre": "Opera",
+        "title": "My Way (with Frank Sinatra)"
+    },
+    "Nocturne No.1 in B flat minor - Op.9 No.1": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "6",
+        "genre": "Classical",
+        "title": "Nocturne No.1 in B flat minor - Op.9 No.1"
+    },
+    "Nocturne No.2 in E flat - Op.9 No.2": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "6",
+        "genre": "None",
+        "title": "Nocturne No.2 in E flat - Op.9 No.2"
+    },
+    "Paperback Writer": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "2",
+        "genre": "Rock , Pop",
+        "title": "Paperback Writer"
+    },
+    "Penny Lane": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "5",
+        "genre": "Rock",
+        "title": "Penny Lane"
+    },
+    "Prlude No.15 in D flat - Op.28 No.15 (Raindrop)": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "6",
+        "genre": "None",
+        "title": "Prlude No.15 in D flat - Op.28 No.15 (Raindrop)"
+    },
+    "Something": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "5",
+        "genre": "Rock , Pop",
+        "title": "Something"
+    },
+    "Speed Of Sound": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "2",
+        "genre": "Other",
+        "title": "Speed Of Sound"
+    },
+    "Square                        ": {
+        "album": "X & Y                         ",
+        "artist": "Various Artists               ",
+        "cluster": "2",
+        "genre": "Other",
+        "title": "Square                        "
+    },
+    "Strawberry Swing": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "6",
+        "genre": "Pop",
+        "title": "Strawberry Swing"
+    },
+    "Swallowed In The Sea": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "6",
+        "genre": "Other",
+        "title": "Swallowed In The Sea"
+    },
+    "Talk": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "6",
+        "genre": "Other",
+        "title": "Talk"
+    },
+    "The Girl From Ipanema": {
+        "album": "Antonio Carlos Jobim",
+        "artist": "Frank Sinatra",
+        "cluster": "6",
+        "genre": "Jazz",
+        "title": "The Girl From Ipanema"
+    },
+    "The Hardest Part": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "9",
+        "genre": "Other",
+        "title": "The Hardest Part"
+    },
+    "Ticket to Ride": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "0",
+        "genre": "Rock",
+        "title": "Ticket to Ride"
+    },
+    "Til Kingdom Come": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "7",
+        "genre": "Other",
+        "title": "Til Kingdom Come"
+    },
+    "Twisted Logic": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "6",
+        "genre": "Other",
+        "title": "Twisted Logic"
+    },
+    "Violet Hill": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "6",
+        "genre": "Pop",
+        "title": "Violet Hill"
+    },
+    "Viva la Vida": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "0",
+        "genre": "Pop",
+        "title": "Viva la Vida"
+    },
+    "Waltz in E flat - Op.18 (Grand Valse brillante)": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "6",
+        "genre": "None",
+        "title": "Waltz in E flat - Op.18 (Grand Valse brillante)"
+    },
+    "What If": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "6",
+        "genre": "Other",
+        "title": "What If"
+    },
+    "White Shadows": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "1",
+        "genre": "Other",
+        "title": "White Shadows"
+    },
+    "X Y": {
+        "album": "X & Y",
+        "artist": "Coldplay",
+        "cluster": "2",
+        "genre": "Other",
+        "title": "X Y"
+    },
+    "Yes": {
+        "album": "Viva la Vida",
+        "artist": "Coldplay",
+        "cluster": "0",
+        "genre": "Pop",
+        "title": "Yes"
+    },
+    "Yesterday": {
+        "album": "1",
+        "artist": "The Beatles",
+        "cluster": "2",
+        "genre": "Rock",
+        "title": "Yesterday"
+    },
+    "tude No.12 in C minor - Op.10 No.12 (Revolutionary)": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "2",
+        "genre": "None",
+        "title": "tude No.12 in C minor - Op.10 No.12 (Revolutionary)"
+    },
+    "tude No.23 in A minor - Op.25 No.11 (Winter Wind)": {
+        "album": "Favorite Piano Works by Vladimir Ashkenazy",
+        "artist": "Frederic Chopin",
+        "cluster": "6",
+        "genre": "None",
+        "title": "tude No.23 in A minor - Op.25 No.11 (Winter Wind)"
+    }
+}

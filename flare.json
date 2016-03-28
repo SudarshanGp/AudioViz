@@ -1,0 +1,56 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "HELLO" : "HELLO",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "AgglomerativeCluster", "size": 0},
+      {"name": "CommunityStructure", "size": 0},
+      {"name": "HierarchicalCluster", "size": 0},
+      {"name": "MergeEdge", "size": 0}
+     ]
+    },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "BetweennessCentrality", "size": 0},
+      {"name": "LinkDistance", "size": 0},
+      {"name": "MaxFlowMinCut", "size": 0},
+      {"name": "ShortestPaths", "size": 0},
+      {"name": "SpanningTree", "size": 0}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "size": 0}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "animate",
+   "children": [
+    {"name": "Easing", "size": 0},
+    {"name": "FunctionSequence", "size": 0},
+    {
+     "name": "interpolate",
+     "children": [
+      {"name": "ArrayInterpolator", "size": 0},
+      {"name": "ColorInterpolator", "size": 0},
+      {"name": "DateInterpolator", "size": 0},
+      {"name": "Interpolator", "size": 0},
+      {"name": "MatrixInterpolator", "size": 0},
+      {"name": "NumberInterpolator", "size": 0},
+      {"name": "ObjectInterpolator", "size": 0},
+      {"name": "PointInterpolator", "size": 0},
+      {"name": "RectangleInterpolator", "size": 0}
+     ]
+    }
+   ]
+  }]
+}
